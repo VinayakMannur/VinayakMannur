@@ -22,7 +22,7 @@
   <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="54" alt="nodejs logo"  />
   <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="54" alt="express logo"  />
+  <img src="https://skillicons.dev/icons?i=express" height="54" alt="express logo"  />
   <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="54" alt="mysql logo"  />
   <img width="14" />
@@ -84,5 +84,6 @@
 
 <br clear="both">
 
+<img src="https://raw.githubusercontent.com/VinayakMannur/VinayakMannur/output/snake.svg" alt="Snake animation" />
 
 ###
